@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Talking Something"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "sys"
+description              : "Maybe an amazing website."
 url                      : "https://mcsys.github.io"
 baseurl                  : "https://mcsys.github.io/talkingabout"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
