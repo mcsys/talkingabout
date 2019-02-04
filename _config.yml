@@ -108,9 +108,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Song Si Young(sys)"
+  name             : "Si Young, Song(sys)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "하루하루 살기 힘든 개발자(하루살이 개발자)"
+  bio              : "하루살이 개발자\n하루 배워서 하루 써먹는\n"
   #location         : "Somewhere"
   email            : "realmcsys@gmail.com"
   links:
