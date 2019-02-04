@@ -110,7 +110,9 @@ analytics:
 author:
   name             : "Si Young, Song(sys)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "하루살이 개발자\n하루 배워서 하루 써먹는\n"
+  bio              : "하루살이 개발자
+                      하루 배워서 하루 써먹는
+                      개발자"
   #location         : "Somewhere"
   email            : "realmcsys@gmail.com"
   links:
