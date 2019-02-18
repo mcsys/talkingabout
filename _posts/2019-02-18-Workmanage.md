@@ -3,7 +3,8 @@ title: "Workmanager"
 date: 2019-02-18 13:43:28 -0400
 ---
 
-
+Gradle 추가
+implementation "android.arch.work:work-runtime-ktx:$rootProject.workVersion"
 
 
 private fun optimizeContent() {
