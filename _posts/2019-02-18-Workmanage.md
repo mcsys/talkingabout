@@ -7,6 +7,14 @@ Gradle 추가
 implementation "android.arch.work:work-runtime-ktx:$rootProject.workVersion"
 
 
+
+Periodic work has a minimum interval of 15 minutes and it cannot have an initial delay.
+주기적인 워커는 최소 15분의 간격이 있으면 초기 지연을 가질 수 없다.
+
+
+
+
+
 private fun optimizeContent() {
         val commonViewModel =  ViewModelProviders.of(this).get(CommonViewModel::class.java)
         val delay = commonViewModel.getWorkManagerDelay()
