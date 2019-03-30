@@ -9,7 +9,7 @@ Exception: ideviceinfo returned an error:
 ERROR: Could not connect to lockdownd, error code -21
 
 아래를 하나씩 실행
-(brew install --HEAD usbmuxd 요기까지만 진행해도 정상적으로 debug가 되긴 한다)
+(brew uninstall --ignore-dependencies libimobiledevice 이것만 실행하면 오류 해결 가능)
 
 brew update
 brew uninstall --ignore-dependencies libimobiledevice
